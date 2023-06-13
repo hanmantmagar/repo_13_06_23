@@ -1,1 +1,1 @@
-fkghfdhg jkhffjdfh kfjk kThis is another file named deploy.sh
+This is another file named deploy.sh
